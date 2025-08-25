@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/anirudhchourey5610/Leetcode/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/anirudhchourey5610/Leetcode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -15,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/anirudhchourey5610/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anirudhchourey5610/Leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anirudhchourey5610/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anirudhchourey5610/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
