@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/anirudhchourey5610/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/anirudhchourey5610/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
