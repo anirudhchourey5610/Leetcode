@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anirudhchourey5610/Leetcode/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/anirudhchourey5610/Leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
