@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anirudhchourey5610/Leetcode/tree/master/0136-single-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anirudhchourey5610/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anirudhchourey5610/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/anirudhchourey5610/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anirudhchourey5610/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/anirudhchourey5610/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/anirudhchourey5610/Leetcode/tree/master/0620-not-boring-movies) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/anirudhchourey5610/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
