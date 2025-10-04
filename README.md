@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anirudhchourey5610/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/anirudhchourey5610/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anirudhchourey5610/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anirudhchourey5610/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anirudhchourey5610/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anirudhchourey5610/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -80,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/anirudhchourey5610/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anirudhchourey5610/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
