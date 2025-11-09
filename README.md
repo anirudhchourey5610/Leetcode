@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/anirudhchourey5610/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/anirudhchourey5610/Leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/anirudhchourey5610/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2288-count-operations-to-obtain-zero](https://github.com/anirudhchourey5610/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anirudhchourey5610/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2288-count-operations-to-obtain-zero](https://github.com/anirudhchourey5610/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## String
 |  |
 | ------- |
