@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anirudhchourey5610/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anirudhchourey5610/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/anirudhchourey5610/Leetcode/tree/master/0189-rotate-array) |
 | [0507-perfect-number](https://github.com/anirudhchourey5610/Leetcode/tree/master/0507-perfect-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anirudhchourey5610/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/anirudhchourey5610/Leetcode/tree/master/0013-roman-to-integer) |
 ## Database
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anirudhchourey5610/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anirudhchourey5610/Leetcode/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anirudhchourey5610/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0953-reverse-only-letters](https://github.com/anirudhchourey5610/Leetcode/tree/master/0953-reverse-only-letters) |
