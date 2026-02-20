@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anirudhchourey5610/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anirudhchourey5610/Leetcode/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/anirudhchourey5610/Leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/anirudhchourey5610/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anirudhchourey5610/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Database
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anirudhchourey5610/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anirudhchourey5610/Leetcode/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anirudhchourey5610/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/anirudhchourey5610/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0953-reverse-only-letters](https://github.com/anirudhchourey5610/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/anirudhchourey5610/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anirudhchourey5610/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -121,4 +123,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anirudhchourey5610/Leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/anirudhchourey5610/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anirudhchourey5610/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
