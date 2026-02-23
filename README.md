@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/anirudhchourey5610/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anirudhchourey5610/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/anirudhchourey5610/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anirudhchourey5610/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/anirudhchourey5610/Leetcode/tree/master/0189-rotate-array) |
 | [0507-perfect-number](https://github.com/anirudhchourey5610/Leetcode/tree/master/0507-perfect-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anirudhchourey5610/Leetcode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/anirudhchourey5610/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
