@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anirudhchourey5610/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anirudhchourey5610/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anirudhchourey5610/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/anirudhchourey5610/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anirudhchourey5610/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anirudhchourey5610/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anirudhchourey5610/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
