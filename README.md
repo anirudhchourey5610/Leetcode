@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anirudhchourey5610/Leetcode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/anirudhchourey5610/Leetcode/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anirudhchourey5610/Leetcode/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/anirudhchourey5610/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/anirudhchourey5610/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/anirudhchourey5610/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anirudhchourey5610/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0874-walking-robot-simulation](https://github.com/anirudhchourey5610/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anirudhchourey5610/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anirudhchourey5610/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anirudhchourey5610/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anirudhchourey5610/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/anirudhchourey5610/Leetcode/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/anirudhchourey5610/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0953-reverse-only-letters](https://github.com/anirudhchourey5610/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/anirudhchourey5610/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/anirudhchourey5610/Leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/anirudhchourey5610/Leetcode/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/anirudhchourey5610/Leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
