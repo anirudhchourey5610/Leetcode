@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/anirudhchourey5610/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anirudhchourey5610/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anirudhchourey5610/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2784-check-if-array-is-good](https://github.com/anirudhchourey5610/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anirudhchourey5610/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anirudhchourey5610/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anirudhchourey5610/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0874-walking-robot-simulation](https://github.com/anirudhchourey5610/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [2784-check-if-array-is-good](https://github.com/anirudhchourey5610/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anirudhchourey5610/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Database
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anirudhchourey5610/Leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/anirudhchourey5610/Leetcode/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/anirudhchourey5610/Leetcode/tree/master/0389-find-the-difference) |
+| [2784-check-if-array-is-good](https://github.com/anirudhchourey5610/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
 | ------- |
