@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anirudhchourey5610/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anirudhchourey5610/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/anirudhchourey5610/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/anirudhchourey5610/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anirudhchourey5610/Leetcode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anirudhchourey5610/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anirudhchourey5610/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anirudhchourey5610/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anirudhchourey5610/Leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/anirudhchourey5610/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anirudhchourey5610/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/anirudhchourey5610/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anirudhchourey5610/Leetcode/tree/master/0389-find-the-difference) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anirudhchourey5610/Leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/anirudhchourey5610/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anirudhchourey5610/Leetcode/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/anirudhchourey5610/Leetcode/tree/master/0389-find-the-difference) |
 | [2784-check-if-array-is-good](https://github.com/anirudhchourey5610/Leetcode/tree/master/2784-check-if-array-is-good) |
